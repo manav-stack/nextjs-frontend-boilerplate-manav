@@ -1,4 +1,5 @@
 /// <reference types="next" />
+//man comment
 /// <reference types="next/image-types/global" />
 
 // NOTE: This file should not be edited
